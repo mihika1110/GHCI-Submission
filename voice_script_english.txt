@@ -1,0 +1,22 @@
+
+[VOICE INTERFACE SCRIPT - English]
+
+Hello! This is your community energy assistant.
+
+Today's renewable energy forecast:
+
+Solar power is expected to produce 1472 units. 
+This is high production.
+
+Wind power is expected to produce 3265 units.
+This is high production.
+
+Recommendation: Use water pumps and heavy equipment during daylight hours.
+
+Total savings today: approximately 28417 rupees in electricity costs.
+
+Press 1 to hear this again.
+Press 2 for tomorrow's forecast.
+Press 3 to speak to a representative.
+
+Thank you for using clean energy!
