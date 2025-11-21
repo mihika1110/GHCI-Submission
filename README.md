@@ -127,8 +127,8 @@ The GenAI engine automatically generates localized, plain-language, daily adviso
 
 ## Team Roles & Contributions
 
-| Name | Roll Number | Primary Contributions |
-| :--- | :--- | :--- |
+| Name | Primary Contributions |
+| :--- | :--- |
 | **Mihika** | Built predictive models: Implemented Linear Regression and Random Forest. |
 | **Saniya Prakash** | **Data Preprocessing Specialist**: Outlier detection, normalization, and feature engineering. Implemented XGBoost. |
 | **Shefali Bishnoi** | Implemented SVR with multiple kernels and the core LSTM model. Prepared research documentation. |
