@@ -127,11 +127,11 @@ The GenAI engine automatically generates localized, plain-language, daily adviso
 
 ## Team Roles & Contributions
 
-| Name | Roll Number | Primary Contributions |
-| :--- | :--- | :--- |
-| **Mihika** | 2301CS31 | Built predictive models: Implemented Linear Regression and Random Forest. |
-| **Saniya Prakash** | 2301CS49 | **Data Preprocessing Specialist**: Outlier detection, normalization, and feature engineering. Implemented XGBoost. |
-| **Shefali Bishnoi** | 2301CS87 | Implemented SVR with multiple kernels and the core LSTM model. Prepared research documentation. |
-| **Juhi Sahni** | 2301CS88 | **Project Lead & Architect**: Defined overall roadmap, ensured integration. Implemented and optimized the **CNN-LSTM hybrid model** and oversaw version control. **Architected the GenAI Integration Layer.** |
+| Name | Primary Contributions |
+| :--- | :--- |
+| **Mihika** | Built predictive models: Implemented Linear Regression and Random Forest. |
+| **Saniya Prakash** | **Data Preprocessing Specialist**: Outlier detection, normalization, and feature engineering. Implemented XGBoost. |
+| **Shefali Bishnoi** | Implemented SVR with multiple kernels and the core LSTM model. Prepared research documentation. |
+| **Juhi Sahni** | **Project Lead & Architect**: Defined overall roadmap, ensured integration. Implemented and optimized the **CNN-LSTM hybrid model** and oversaw version control. **Architected the GenAI Integration Layer.** |
 
 ---
